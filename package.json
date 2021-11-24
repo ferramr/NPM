@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Carpeta NPM para creacion de modulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferramr/NPM.git"
+  },
+  "author": "Fernando Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferramr/NPM/issues"
+  },
+  "homepage": "https://github.com/ferramr/NPM#readme"
+}
